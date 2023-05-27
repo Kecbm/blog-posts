@@ -33,6 +33,7 @@ Documentação dos meus **blog posts**, onde escrevo sobre tópicos que estou es
 <br>
 
 <img title="Kotlin" alt="Kotlin" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img title="JavaScript" alt="JavaScript" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
 
 <p align="right"><a href="#top">Voltar ao topo ☝</a></p>
 
