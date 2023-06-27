@@ -1,5 +1,5 @@
 # Como otimizar sua semana de leitura: dicas práticas e eficazes
-A leitura é uma poderosa ferramenta de aprendizado, eu descobri seu valor em 2019 quando retomei o hábito. Nos últimos 3 anos, mergulhei em cerca de 70 livros, todos eles estão documentados [nesse link](https://codepen.io/klecianny-melo/pen/dyRJqbY). Neste post, compartilharei dicas práticas e eficazes para ajudá-lo a otimizar sua semana de leitura, adaptando-a ao seu contexto.
+A leitura é uma poderosa ferramenta de aprendizado, eu descobri seu valor em 2019 quando retomei o hábito. Nos últimos 3 anos, eu li cerca de 70 livros, todos eles estão documentados [nesse link](https://codepen.io/klecianny-melo/pen/dyRJqbY). Neste post, compartilharei dicas práticas e eficazes para ajudá-lo a otimizar sua semana de leitura, adaptando-a ao seu contexto.
 
 O primeiro passo é definir os temas nos quais você deseja se aprofundar. No meu caso, escolhi cinco temas fundamentais:
 
